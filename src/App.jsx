@@ -1,16 +1,13 @@
 import { Routes, Route } from "react-router-dom";
 import './App.css'
 import Home from './pages/Home';
-import PizzaOrder from './pages/pizzaOrder';
+import PizzaOrder from './pages/PizzaOrder';
 import Success from './pages/Success';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
 
-
 function App() {
-
-
   return (
     <>
       <Routes>

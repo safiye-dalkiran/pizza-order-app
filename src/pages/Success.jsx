@@ -1,7 +1,7 @@
 // Success.jsx
 import React from "react";
 import { Card, CardBody, CardTitle, Button } from "reactstrap";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import Logo from "../components/Logo";
 
 export default function Success({

@@ -7,7 +7,7 @@ import {
     Label,
 } from "reactstrap";
 import Success from "./Success";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import { toast } from "react-toastify";
 import Logo from "../components/Logo";
 

@@ -3,7 +3,7 @@ import Header from "../components/header"
 import NavMain from "../components/NavMain"
 import MainCard from "../components/MainCard"
 import CategoryMenu from "../components/CategoryMenu"
-import Footer from "../components/footer"
+import Footer from "../components/Footer"
 export default function Home() {
     return (
         <div>

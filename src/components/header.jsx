@@ -1,6 +1,6 @@
 
 import { Card, CardImg, CardImgOverlay, CardTitle, CardText } from "reactstrap"
-import image from '../../images/iteration-1-images/home-banner.png'
+import image from '/images/iteration-1-images/home-banner.png'
 import NavMenu from "./NavMenu"
 import { useNavigate } from "react-router-dom"
 import Logo from "../components/Logo"

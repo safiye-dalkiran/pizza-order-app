@@ -169,7 +169,7 @@ export default function PizzaOrder() {
             <section className="font-barlow md:!bej-bg">
                 <div className="flex flex-col items-center md:!bej-bg">
                     <img
-                        src="../../images/iteration-2-images/pictures/form-banner.png"
+                        src="/images/iteration-2-images/pictures/form-banner.png"
                         alt="" className="md:block hidden"
                     />
                     <div className="md:mt-10 md:w-1/3 ">

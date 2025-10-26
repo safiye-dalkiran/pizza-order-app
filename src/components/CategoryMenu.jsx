@@ -35,7 +35,7 @@ export default function CategoryMenu() {
                     <Card key={cat.id} className="border-0 rounded-2xl py-4">
                         <CardImg
                             alt={cat.text}
-                            src={`../../images/iteration-2-images/pictures/${cat.img}`}
+                            src={`/images/iteration-2-images/pictures/${cat.img}`}
                             top
                             className="w-full px-4 md:px-0 md:h-48 object-contain"
                         />

@@ -23,7 +23,7 @@ const NavMenu = () => {
                             className="flex items-center gap-2 text-black text-decoration-none"
                         >
                             <img
-                                src={`../../images/iteration-2-images/icons/${cat.img}`}
+                                src={`/images/iteration-2-images/icons/${cat.img}`}
                                 alt={cat.text}
                                 className="w-8 h-8"
                             />

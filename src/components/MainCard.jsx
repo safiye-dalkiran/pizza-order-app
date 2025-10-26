@@ -7,7 +7,7 @@ export default function MainCard() {
                     <Card className="relative">
                         <CardImg
                             alt="Hero Background"
-                            src="../../images/iteration-2-images/cta/kart-1.png"
+                            src="/images/iteration-2-images/cta/kart-1.png"
                             className=" w-full object-cover"
                         />
                         <CardImgOverlay className="flex flex-col items-start px-4 py-4">
@@ -32,7 +32,7 @@ export default function MainCard() {
                     <Card className="relative min-h-[180px] md:min-h-auto">
                         <CardImg
                             alt="Hero Background"
-                            src="../../images/iteration-2-images/cta/kart-2.png"
+                            src="/images/iteration-2-images/cta/kart-2.png"
                             className=" w-full h-full object-cover"
                         />
                         <CardImgOverlay className="flex flex-col items-start px-4 py-4">
@@ -52,7 +52,7 @@ export default function MainCard() {
                     <Card className="relative min-h-[180px] md:min-h-auto">
                         <CardImg
                             alt="Hero Background"
-                            src="../../images/iteration-2-images/cta/kart-3.png"
+                            src="/images/iteration-2-images/cta/kart-3.png"
                             className="w-full h-full object-cover"
                         />
                         <CardImgOverlay className="flex flex-col items-start px-4 py-4">

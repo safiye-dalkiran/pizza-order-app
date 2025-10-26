@@ -13,18 +13,18 @@ export default function Footer() {
                             className="w-45 md:w-32 mb-2"
                         />
                         <div className="flex items-start gap-3">
-                            <img src="../../images/iteration-2-images/footer/icons/icon-1.png" alt="" className="w-6 h-6" />
+                            <img src="/images/iteration-2-images/footer/icons/icon-1.png" alt="" className="w-6 h-6" />
                             <div >
                                 <p>341 Londonderry Road,</p>
                                 <p>Istanbul Türkiye</p>
                             </div>
                         </div>
                         <div className="flex items-center gap-3 ">
-                            <img src="../../images/iteration-2-images/footer/icons/icon-2.png" alt="" className="w-6 h-6" />
+                            <img src="/images/iteration-2-images/footer/icons/icon-2.png" alt="" className="w-6 h-6" />
                             <p>aciktim@teknolojikyemekler.com</p>
                         </div>
                         <div className="flex items-center gap-3 text-xl md:text-lg">
-                            <img src="../../images/iteration-2-images/footer/icons/icon-3.png" alt="" className="w-6 h-6" />
+                            <img src="/images/iteration-2-images/footer/icons/icon-3.png" alt="" className="w-6 h-6" />
                             <p>+90 216 123 45 67</p>
                         </div>
                     </Col>
@@ -44,12 +44,12 @@ export default function Footer() {
                     <Col md="4" className="flex flex-col gap-3 mt-4">
                         <h2 className="text-lg mb-3">Instagram</h2>
                         <div className="grid grid-cols-3 gap-1">
-                            <img src="../../images/iteration-2-images/footer/insta/li-0.png" alt="" />
-                            <img src="../../images/iteration-2-images/footer/insta/li-1.png" alt="" />
-                            <img src="../../images/iteration-2-images/footer/insta/li-2.png" alt="" />
-                            <img src="../../images/iteration-2-images/footer/insta/li-3.png" alt="" />
-                            <img src="../../images/iteration-2-images/footer/insta/li-4.png" alt="" />
-                            <img src="../../images/iteration-2-images/footer/insta/li-5.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-0.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-1.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-2.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-3.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-4.png" alt="" />
+                            <img src="/images/iteration-2-images/footer/insta/li-5.png" alt="" />
                         </div>
                     </Col>
                 </Row>

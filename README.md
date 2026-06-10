@@ -1,4 +1,4 @@
-# Position Absolute Acı Pizza (Pizza Order App)
+# Pizza Order App
 
 Bu proje, React + Vite ile geliştirilmiş; kullanıcıların pizza siparişi oluşturabildiği (boyut, hamur, ek malzemeler, isim ve not), form doğrulaması yapan ve başarılı sipariş sonrası “Success” sayfasını gösteren bir web uygulamasıdır.
 
